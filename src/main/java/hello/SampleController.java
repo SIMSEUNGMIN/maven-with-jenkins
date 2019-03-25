@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class SampleController {
     @Value("${environment.message}")
     private String message;
-
+//Hello
     @RequestMapping("/")
     @ResponseBody
     String home() {
