@@ -7,6 +7,10 @@ import org.springframework.stereotype.*;
 import org.springframework.web.bind.annotation.*;
 import java.util.Scanner;
 
+
+//201702034 심승민
+
+
 @Controller
 @EnableAutoConfiguration
 public class SampleController {
