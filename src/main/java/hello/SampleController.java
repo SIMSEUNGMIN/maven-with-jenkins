@@ -7,7 +7,6 @@ import org.springframework.stereotype.*;
 import org.springframework.web.bind.annotation.*;
 import java.util.Scanner;
 
-//realcoding 03
 
 @Controller
 @EnableAutoConfiguration
